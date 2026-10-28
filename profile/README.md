@@ -38,4 +38,4 @@ Browse the [repositories](https://github.com/orgs/TomoriLab/repositories) to exp
 
 - [zeroday0619](https://github.com/zeroday0619)
     - Contact
-        - Email: escha@zeroday0619.dev
+        - Email: zero@tomori.dev
