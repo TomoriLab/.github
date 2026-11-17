@@ -35,7 +35,32 @@ Browse the [repositories](https://github.com/orgs/TomoriLab/repositories) to exp
 ### Members
 
 #### **Maintainer**
+> [zeroday0619](https://github.com/zeroday0619)
 
-- [zeroday0619](https://github.com/zeroday0619)
-    - Contact
-        - Email: zero@tomori.dev
+### Joining Tomori Lab
+
+To request membership, contact [zeroday0619](https://github.com/zeroday0619) with your GitHub username, the projects you would like to contribute to, and any relevant contributions. An organization owner reviews requests and sends invitations. You can contribute to public repositories through issues and pull requests before joining.
+
+#### Repository access
+
+Access is assigned according to each contributor’s responsibilities, using [GitHub repository roles](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization):
+
+| Role | Typical responsibilities |
+| --- | --- |
+| Read | Follow development and participate in project discussions. |
+| Triage | Help manage issues and pull requests without write access to code. |
+| Moderate | Moderate discussions and manage issues and pull requests without write access to code. |
+| Write | Contribute code regularly and help maintain the project. |
+| Maintain | Coordinate development, releases, and routine repository management. |
+| Admin | Manage repository settings and access when required for project administration. |
+
+#### Organization membership
+
+[Organization roles](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization) are separate from repository access:
+
+| Role | Membership criteria |
+| --- | --- |
+| Member | Contributors approved to collaborate on Tomori Lab projects. Repository and team access is assigned according to their work. |
+| Owner | Trusted maintainers responsible for organization administration, security, and continuity. Ownership requires explicit approval from an existing owner. |
+
+Contributions across multiple repositories may support a request for broader responsibilities. Membership and permission changes are reviewed individually; contribution counts or roles in other communities do not automatically grant access.
